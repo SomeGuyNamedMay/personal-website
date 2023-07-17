@@ -1,0 +1,51 @@
+{
+  "sources": {
+    "dom": {
+      "source": {
+        "url": "https://github.com/stefan-hoeck/idris2-dom",
+        "rev": "9b68ee497679cd1a7f085f22901506a62f33f13f",
+        "sha256": "sha256-du/95+TXMGMx1NkgNqOxLTGYTCDtXWCnDqNg6GErQvw="
+      },
+      "ipkg": "dom.ipkg",
+      "name": "dom"
+    },
+    "elab-util": {
+      "source": {
+        "url": "https://github.com/stefan-hoeck/idris2-elab-util",
+        "rev": "966a2f87c92b043d54b3710d3e86ad3667a8d615",
+        "sha256": "sha256-Ew31pmtRkHShgDYrNQHAHg+uEjM+EKqLwFFb1D/+G8I="
+      },
+      "ipkg": "elab-util.ipkg",
+      "name": "elab-util"
+    },
+    "js": {
+      "source": {
+        "url": "https://github.com/stefan-hoeck/idris2-dom",
+        "rev": "9b68ee497679cd1a7f085f22901506a62f33f13f",
+        "sha256": "sha256-du/95+TXMGMx1NkgNqOxLTGYTCDtXWCnDqNg6GErQvw="
+      },
+      "ipkg": "js/js.ipkg",
+      "name": "js"
+    },
+    "quantifiers-extra": {
+      "source": {
+        "url": "https://github.com/stefan-hoeck/idris2-quantifiers-extra",
+        "rev": "0bd29837979d8dba034766d197f0ac8c351b0c68",
+        "sha256": "sha256-m7eJvzVNn+f75AOP9EQH/wvqx8SjRKkEVjbBOvHajkk="
+      },
+      "ipkg": "quantifiers-extra.ipkg",
+      "name": "quantifiers-extra"
+    }
+  },
+  "sorted": [
+    "elab-util",
+    "quantifiers-extra",
+    "js",
+    "dom"
+  ],
+  "idris2": {
+    "url": "https://github.com/idris-lang/Idris2",
+    "rev": "388d21775705f1b9d045081b29129bf0ebf937aa",
+    "sha256": "sha256-sfVGMbwNtglcpvioMrCk4xmur05pZuOqSwPMnycNkkg="
+  }
+}
